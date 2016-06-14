@@ -8,4 +8,4 @@ wikipedia.search(actualDrug)
 
 GD = wikipedia.page(actualDrug)
 
-print("Generic Name:" + GD.title)
+print("Generic Name: " + GD.title)
